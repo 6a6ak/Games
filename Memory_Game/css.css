@@ -7,7 +7,6 @@ img{width:150px;height: 150px;border-radius: 25px;}
     flex-wrap: wrap; 
     margin: 60px auto; 
     } 
-    
     .grid img { 
     margin: 2px; 
     transform-style: preserve-3d; 
@@ -22,7 +21,6 @@ img{width:150px;height: 150px;border-radius: 25px;}
     .grid img.flip { 
     transform: rotateY(180deg); 
     } 
-    
     .popup { 
     background: #232f3e; 
     opacity: 0.95;
