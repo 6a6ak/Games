@@ -6,5 +6,4 @@
 - Memory Game
 
   <img src="Memory_Game/screen01.png" alt="HangMan Swedish Verb" width="400" />
-
-    <img src="Memory_Game/screen02.png" alt="HangMan Swedish Verb" width="400" />
+ <img src="Memory_Game/screen02.png" alt="HangMan Swedish Verb" width="400" />
