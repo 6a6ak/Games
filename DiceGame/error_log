@@ -1,0 +1,18 @@
+[26-Mar-2024 12:48:54 Europe/Brussels] PHP Warning:  Undefined array key "unique_id" in /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php on line 10
+[26-Mar-2024 12:48:54 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php:10
+Stack trace:
+#0 /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php on line 10
+[09-Apr-2024 12:57:36 Europe/Brussels] PHP Warning:  Undefined array key "unique_id" in /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php on line 10
+[09-Apr-2024 12:57:36 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php:10
+Stack trace:
+#0 /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php on line 10
+[09-Apr-2024 12:57:49 Europe/Brussels] PHP Warning:  Undefined array key "unique_id" in /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php on line 10
+[09-Apr-2024 12:57:49 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php:10
+Stack trace:
+#0 /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/rayan/domains/tricks.se/public_html/game/DiceGame/index.php on line 10

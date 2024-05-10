@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>River Raid Review</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div>
+            
+            <canvas id="gameCanvas" width="1200" height="600"></canvas>
+        </div>
+        
+        
+        
+        
+        
+        <div id="review">This game is awesome!</div>
+    </div>
+    <script src="game.js"></script>
+
+
+
+
+
+
+<script>
+    var review = document.getElementById("review");
+    if (game.score < 1000) {
+        review.innerHTML = "This game is challenging but fun!";
+    } else if (game.score < 5000) {
+        review.innerHTML = "This game is addictive and intense!";
+    } else {
+        review.innerHTML = "This game is a classic!";
+    }
+</script>
+</body>
+</html>

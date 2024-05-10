@@ -1,0 +1,15 @@
+#gameCanvas {
+    border: 2px solid black;
+    background-color: rgb(17, 213, 219);
+margin: 0 auto;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
